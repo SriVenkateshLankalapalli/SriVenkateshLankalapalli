@@ -12,7 +12,6 @@
 <p align="left">
 
 <p>Connect with me:</p>
-<a href="mailto:ashrockzzz2003@gmail.com"><img height="30" width="40" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png"></a>
 <a href="https://www.linkedin.com/in/srivenkatesh16/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>
 <a href="https://www.instagram.com/srivenkateshlankalapalli/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"></a>
 
